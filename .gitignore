@@ -24,3 +24,6 @@ secrets/
 # Vercel / Netlify local state
 .vercel/
 .netlify/
+
+
+.cursor/
